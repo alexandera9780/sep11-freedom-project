@@ -1,19 +1,20 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Anime.js **
 
-## Project: **X**
+## Project: **Chemistry studying program **
 
 ---
 
-### X/X/XX:
-* Text
+### 9/29/25:
+* Anime.js can be installed using the API (npm install animejs), and then imported using "import { animate } from 'animejs';"
+*
 
 ### X/X/XX:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
