@@ -10,8 +10,14 @@
 * Anime.js can be installed using the API (npm install animejs), and then imported using "import { animate } from 'animejs';"
 *
 
-### X/X/XX:
-* Text
+### 11/10/25:
+* Tool has changed to APIs
+* npm is a package manager for node.js
+* --save-dev installs and adds the entry to the package.json file devDependencies
+--no-save installs but does not add the entry to the package.json file dependencies
+--save-optional installs and adds the entry to the package.json file optionalDependencies
+--no-optional will prevent optional dependencies from being installed
+
 
 
 <!--
