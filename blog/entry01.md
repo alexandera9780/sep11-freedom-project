@@ -8,7 +8,9 @@ In this beginning portion of the project, we are just about done with the first 
 
 ### Skills
 #### Teamwork
-I feel like teamwork is something that has been worked on a lot towards these beginning parts of the project, as me and my partner have been 
+I feel like teamwork is something that has been worked on a lot towards these beginning parts of the project, as me and my partner have been working together a lot to plan what we want our project to look like, and how we want our project to run.
+#### Communication
+Similarly to how teamwork has been worked on a lot, communication is also something that has been extremely worked on a lot over the last couple of weeks, as we've had to converse about how our tools would align and how we would actually end up doing the project in the long run.
 [Next](entry02.md)
 
 [Home](../README.md)
