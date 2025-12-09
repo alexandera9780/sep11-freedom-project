@@ -19,6 +19,12 @@
 --no-optional will prevent optional dependencies from being installed
 
 
+### 12/8/25
+# Download and install nvm:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+This code installs node.js onto my system.
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
